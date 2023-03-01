@@ -75,6 +75,6 @@ DOMAIN-SUFFIX,direct.nebula-emby.com
 DOMAIN-SUFFIX,misty.ltd
 DOMAIN-SUFFIX,nakonako.net
 DOMAIN-SUFFIX,nakoemby.com
-HOST-KEYWORD.wtf
-HOST-KEYWORD,jmsooo
-HOST-KEYWORD,odysseyplus
+DOMAIN-KEYWORD.wtf
+DOMAIN-KEYWORD,jmsooo
+DOMAIN-KEYWORD,odysseyplus
