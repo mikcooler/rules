@@ -36,8 +36,6 @@ DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,emby.riches.cloud
 DOMAIN-SUFFIX,pornemby.maoxiong.cloud
 DOMAIN-SUFFIX,embyclub.maoxiong.cloud
-DOMAIN-SUFFIX,cu.poloemby.xyz
-#
 DOMAIN-SUFFIX,emby.ednovas.org
 DOMAIN-SUFFIX,play.acemby.org
 DOMAIN-SUFFIX,cflix.acemby.org
@@ -59,6 +57,8 @@ DOMAIN-SUFFIX,s2.amazing910.top
 DOMAIN-SUFFIX,cf.gtlx.org
 DOMAIN-SUFFIX,cf.studyfun.live
 DOMAIN-SUFFIX,zz.studyfun.live
+DOMAIN-SUFFIX,4837.studyfun.live
+DOMAIN-SUFFIX,9929.studyfun.live
 DOMAIN-SUFFIX,film.goodisp.org
 DOMAIN-SUFFIX,emby.plusmedia.site
 DOMAIN-SUFFIX,pub1.emby.wtf
@@ -75,6 +75,10 @@ DOMAIN-SUFFIX,kr.embymv.tk
 DOMAIN-SUFFIX,cf.embytv.cf
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-SUFFIX,media.nijigem.by
+DOMAIN-SUFFIX,bili.bili.rip
+DOMAIN-SUFFIX,embyjp.222921.xyz
+DOMAIN-SUFFIX,emby.9191001.xyz
+DOMAIN-SUFFIX,emby.jzq.lol
 DOMAIN-SUFFIX,emby.222921.xyz
 DOMAIN-SUFFIX,embyen.222921.xyz
 DOMAIN-SUFFIX,cf.222921.xyz
@@ -86,6 +90,8 @@ DOMAIN-SUFFIX,cf3.misakaf.org
 DOMAIN-SUFFIX,cf.misakaf.org
 DOMAIN-SUFFIX,df.poloemby.xyz
 DOMAIN-SUFFIX,cu.poloemby.xyz
+DOMAIN-SUFFIX,happy.poloemby.xyz
+DOMAIN-SUFFIX,sp.pololine.ml
 DOMAIN-SUFFIX,direct.nebula-emby.com
 DOMAIN-SUFFIX,misty.ltd
 DOMAIN-SUFFIX,nakonako.net
