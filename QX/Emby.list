@@ -36,8 +36,6 @@ HOST-SUFFIX,servers.xeton.dev,Emby
 HOST-SUFFIX,emby.riches.cloud,Emby
 HOST-SUFFIX,pornemby.maoxiong.cloud,Emby
 HOST-SUFFIX,embyclub.maoxiong.cloud,Emby
-HOST-SUFFIX,cu.poloemby.xyz,Emby
-#
 HOST-SUFFIX,emby.ednovas.org,Emby
 HOST-SUFFIX,play.acemby.org,Emby
 HOST-SUFFIX,cflix.acemby.org,Emby
@@ -59,6 +57,8 @@ HOST-SUFFIX,s2.amazing910.top,Emby
 HOST-SUFFIX,cf.gtlx.org,Emby
 HOST-SUFFIX,cf.studyfun.live,Emby
 HOST-SUFFIX,zz.studyfun.live,Emby
+HOST-SUFFIX,4837.studyfun.live,Emby
+HOST-SUFFIX,9929.studyfun.live,Emby
 HOST-SUFFIX,film.goodisp.org,Emby
 HOST-SUFFIX,emby.plusmedia.site,Emby
 HOST-SUFFIX,pub1.emby.wtf,Emby
@@ -75,6 +75,10 @@ HOST-SUFFIX,kr.embymv.tk,Emby
 HOST-SUFFIX,cf.embytv.cf,Emby
 HOST-SUFFIX,embymv.tk,Emby
 HOST-SUFFIX,media.nijigem.by,Emby
+HOST-SUFFIX,bili.bili.rip,Emby
+HOST-SUFFIX,embyjp.222921.xyz,Emby
+HOST-SUFFIX,emby.9191001.xyz,Emby
+HOST-SUFFIX,emby.jzq.lol,Emby
 HOST-SUFFIX,emby.222921.xyz,Emby
 HOST-SUFFIX,embyen.222921.xyz,Emby
 HOST-SUFFIX,cf.222921.xyz,Emby
@@ -86,6 +90,8 @@ HOST-SUFFIX,cf3.misakaf.org,Emby
 HOST-SUFFIX,cf.misakaf.org,Emby
 HOST-SUFFIX,df.poloemby.xyz,Emby
 HOST-SUFFIX,cu.poloemby.xyz,Emby
+HOST-SUFFIX,happy.poloemby.xyz,Emby
+HOST-SUFFIX,sp.pololine.ml,Emby
 HOST-SUFFIX,direct.nebula-emby.com,Emby
 HOST-SUFFIX,misty.ltd,Emby
 HOST-SUFFIX,nakonako.net,Emby
